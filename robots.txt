@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ptiovern.github.io/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/app/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/assets/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/css/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/data/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/includes/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/item/sitemap.ptiovern.gz
+Sitemap: https://ptiovern.github.io/src/sitemap.ptiovern.gz
